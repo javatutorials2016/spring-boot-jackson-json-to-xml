@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "name": "javapedia.net",
+  "skillSet": [
+    {
+      "skillName": "java",
+      "category": "server programming"
+    },
+    {
+      "skillName": "angular",
+      "category": "frontend programming"
+    },
+    {
+      "name": "mongodb",
+      "category": "database"
+    }
+  ]
+}
