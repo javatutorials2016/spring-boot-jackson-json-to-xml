@@ -15,4 +15,9 @@ public class JSONToXMLMappingController {
     public @ResponseBody RequestModel mapJsonToXML(@RequestBody final RequestModel request) {
         return request;
     }
+
+    @PostMapping(path = "/mapXMLtoJson", consumes = MediaType.APPLICATION_XML_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+    public @ResponseBody RequestModel mapXMLtoJson(@RequestBody final RequestModel request) {
+        return request;
+    }
 }

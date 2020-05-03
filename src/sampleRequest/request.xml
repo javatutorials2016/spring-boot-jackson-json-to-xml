@@ -1,0 +1,18 @@
+<RequestModel>
+    <id>1</id>
+    <name>javapedia.net</name>
+    <skillSet>
+        <skillSet>
+            <skillName>Java</skillName>
+            <category>server programming</category>
+        </skillSet>
+        <skillSet>
+            <skillName>Angular</skillName>
+            <category>frontend programming</category>
+        </skillSet>
+        <skillSet>
+            <skillName/>
+            <category>database</category>
+        </skillSet>
+    </skillSet>
+</RequestModel>
